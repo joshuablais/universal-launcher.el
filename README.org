@@ -1,0 +1,10 @@
+#+title: Readme
+
+* Universal Launcher for emacs
+** Functionality:
+*** File search
+*** emoji lookup for copy paste
+*** built in calculator
+*** Web search
+*** application launcher
+*** org bookmark parsing
